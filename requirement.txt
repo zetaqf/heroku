@@ -1,1 +1,2 @@
-python-3.5.1
+python-3.6.0
+bottle==0.12.10
